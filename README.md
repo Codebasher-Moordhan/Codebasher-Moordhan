@@ -34,8 +34,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebasher-moordhan&show_icons=true&locale=en&layout=compact" alt="codebasher-moordhan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebasher-moordhan&show_icons=true&locale=en&layout=compact" alt="codebasher-moordhan" style="width:49%" height=230/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebasher-moordhan&show_icons=true&locale=en" alt="codebasher-moordhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebasher-moordhan&" alt="codebasher-moordhan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebasher-moordhan&show_icons=true&locale=en" alt="codebasher-moordhan" style="width:49%"/></p>
